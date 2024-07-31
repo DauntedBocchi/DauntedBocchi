@@ -1,1 +1,1 @@
-Testando... Testando... Ah, ola!, não sabia que você estava aqui, então... estou apenas de bobeira por aqui :3
+Testing... Testing... Ah, hi!, I didn't know you were here, so... I'm just hanging around here :3
