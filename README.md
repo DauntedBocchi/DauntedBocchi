@@ -6,4 +6,4 @@ you can see my profile on my tiktok, there isn't much, but at least see it there
 
 And... that's it
 
-![korone welcome](https://tenor.com/bEUys.gif)
+![korone welcome gif](https://tenor.com/bEUys.gif)
