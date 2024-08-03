@@ -2,7 +2,7 @@
 
 you can see my profile on my tiktok, there isn't much, but at least see it there:
 
-My Tiktok:@ikuyokta_0805
+My Tiktok:!(@ikuyokta_0805)[https://www.tiktok.com/@ikuyokta0805]
 
 And... that's it
 
