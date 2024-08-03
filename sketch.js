@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(1024, 768);
 }
 
 function draw() {
@@ -7,11 +7,11 @@ function draw() {
   textSize(150)
   text('🚗🏡', 100, 320)
   textSize(100);
-  text('😎', 50, 330);
+  text('😎', 512, 680);
   fill("green",);
   stroke("black");
   strokeWeight(10);
-    rect(0, 350, 400, 70);  
+    rect(0, 700, 1024, 70);  
   textSize(100);
   text('✌', 1, 330);
   textSize(135)
