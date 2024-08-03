@@ -6,4 +6,4 @@ My Tiktok:@ikuyokta_0805
 
 And... that's it
 
-!(lucky star speech bubble)[https://tenor.com/pt-BR/view/grant-yapping-lucky-star-speech-bubble-gif-5332780545471097334]
+!(lucky star speech bubble)[https://media.tenor.com/SgHXpt3rKfYAAAAi/grant-yapping.gif]
