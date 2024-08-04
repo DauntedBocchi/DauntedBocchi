@@ -2,13 +2,6 @@ function setup() {
   createCanvas(1920, 768);
 }
 
-function draw() {
-  background('lightpink');
-  fill(300, 200, 300)
-  noStroke(true)
-   rect(0, 0, 300, 1920);
-  rect(1650, 0, 300, 1920)
-}
   let img;
 
 function preload() {
