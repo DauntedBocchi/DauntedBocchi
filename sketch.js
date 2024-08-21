@@ -33,8 +33,3 @@ function draw() {
   text('nothing here', 400, 400)
   
 }
-  strokeWeight(20)
-  textSize(90)
-  text('nothing here', 400, 400)
-  
-}
